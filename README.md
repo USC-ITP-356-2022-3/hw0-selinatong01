@@ -1,3 +1,6 @@
+Selina Tong
+9777511026
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
